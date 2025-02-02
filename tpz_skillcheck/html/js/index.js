@@ -80,7 +80,7 @@ function startSkillCheck(difficulty) {
     function finishCircle(success) {
       success ? successSound.play() : failSound.play()
       $.post(
-        'https://tp_skillcheck/result',
+        'https://tpz_skillcheck/result',
         JSON.stringify({
           result: success,
         })
