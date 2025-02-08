@@ -1,4 +1,5 @@
-# tpz_skillcheck
+# TPZ-CORE Skillcheck
+
 Credits to unknown developer who made the skillcheck utility for minigames.
 
 # Installation
